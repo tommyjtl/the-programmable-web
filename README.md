@@ -5,7 +5,7 @@
 
 ## Content
 
-* (Introduction: A Programmable Web)[https://tommyjtl.github.io/the-programmable-web/translation/ch01-introduction-a-programmable-web]
+* [Introduction: A Programmable Web](https://tommyjtl.github.io/the-programmable-web/translation/ch01-introduction-a-programmable-web)
 * Building for Users: Designing URLs
 * Building for Search Engines: Following REST 
 * Building for Choice: Allowing Import and Export

@@ -1,8 +1,10 @@
 If you are like most people I know (and, since you're reading this book, you probably are -- at least in this respect), you use the Web. A lot. In fact, in my own personal case, the vast majority of my days are spent reading or scanning web pages -- a scroll through my webmail client to talk with friends and colleagues, a weblog or two to catch up on the news of the day, a dozen short articles, a flotilla of Google queries, and the constant turn to Wikipedia for a stray fact to answer a nagging question.
 
-> 译文置于此处
+> 如果你跟我认识的人相像的话（鉴于你正在读这本书，那绝对就是了），你一定经常使用互联网。拿我自己来说，我生活中大部分时间都是在阅读网页中度过 — 通过邮件客户端与朋友／同事们聊天，翻几篇网络博客来获取新闻，还有成堆的短篇文章和那些想 Google 的条目，有时还会为一些老生常谈的问题跑去 Wikipedia 找答案考究。
 
 All fine and good, of course; indeed, nigh indispensable. And yet, it is sobering to think that little over a decade ago none of this existed. Email had its own specialized applications, weblogs had yet to be invented, articles were found on paper, Google was yet unborn, and Wikipedia not even a distant twinkle in Larry Sanger's eye.
+
+> 我列举的这些行为，如今都再正常不过了，同时在我们的生活中也不可或缺。不过回想一下，10 年以前这些事情是不存在的：那时电子邮件还要用专门的软件来打开，网络博客还没被发明，看文章还停留在纸张上，Google 还未诞生，甚至连 Wikipedia 这个项目都还没在 Larry Sanger 的脑海里飘过。
 
 And so, it is striking to consider -- almost shocking, in fact -- what the world might be like when our software turns to the Web just as frequently and casually as we do. Today, of course, we can see the faint, future glimmers of such a world. There is software that phones home to find out if there's an update. There is software where part of its content -- the help pages, perhaps, or some kind of catalog -- is streamed over the Web. There is software that sends a copy of all your work to be stored on the Web. There is software specially designed to help you navigate a certain kind of web page. There is software that consists of _nothing but_ a certain kind of web page. There is software -- the so-called "mashups" -- that consists of a web page combining information from two other web pages. And there is software that, using "APIs", treats other web sites as just another part of the software infrastructure, another function it can call to get things done.
 

@@ -1,6 +1,6 @@
 If you are like most people I know (and, since you're reading this book, you probably are -- at least in this respect), you use the Web. A lot. In fact, in my own personal case, the vast majority of my days are spent reading or scanning web pages -- a scroll through my webmail client to talk with friends and colleagues, a weblog or two to catch up on the news of the day, a dozen short articles, a flotilla of Google queries, and the constant turn to Wikipedia for a stray fact to answer a nagging question.
 
-> 如果你跟我认识的人相像的话（鉴于你正在读这本书，那绝对就是了），你一定经常使用互联网。拿我自己来说，我生活中大部分时间都是在阅读网页中度过 — 通过邮件客户端与朋友／同事们聊天，翻几篇网络博客来获取新闻，还有成堆的短篇文章和那些想 Google 的条目，有时还会为一些老生常谈的问题跑去 Wikipedia 找答案考究。
+> 如果你和我认识的大多数人相像的话（鉴于你正在读这本书，那绝对就是了），你一定经常使用互联网。拿我自己来说，我生活中大部分时间都是在阅读网页中度过 — 通过邮件客户端与朋友／同事们聊天，翻几篇网络博客来获取新闻，还有成堆的短篇文章和那些想 Google 的条目，有时还会为一些老生常谈的问题跑去 Wikipedia 找答案考究。
 
 All fine and good, of course; indeed, nigh indispensable. And yet, it is sobering to think that little over a decade ago none of this existed. Email had its own specialized applications, weblogs had yet to be invented, articles were found on paper, Google was yet unborn, and Wikipedia not even a distant twinkle in Larry Sanger's eye.
 

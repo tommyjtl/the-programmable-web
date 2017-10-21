@@ -8,7 +8,11 @@ All fine and good, of course; indeed, nigh indispensable. And yet, it is soberin
 
 And so, it is striking to consider -- almost shocking, in fact -- what the world might be like when our software turns to the Web just as frequently and casually as we do. Today, of course, we can see the faint, future glimmers of such a world. There is software that phones home to find out if there's an update. There is software where part of its content -- the help pages, perhaps, or some kind of catalog -- is streamed over the Web. There is software that sends a copy of all your work to be stored on the Web. There is software specially designed to help you navigate a certain kind of web page. There is software that consists of _nothing but_ a certain kind of web page. There is software -- the so-called "mashups" -- that consists of a web page combining information from two other web pages. And there is software that, using "APIs", treats other web sites as just another part of the software infrastructure, another function it can call to get things done.
 
+> 细想上述改变的确令人吃惊，甚至有些震惊。而当这些软件变得像网页一样频繁且日常，世界将会是什么样子？在今天，这个未来世界就已初现端倪。现在我们能够通过软件拨打电话更进信息，有些软件的帮助页面或目录在网上四处蔓延，有些软件能将你的工作成果拷贝并存储到网页上。也有些软件则为你特别定制，为你找出所需的网页，或者就只包含一些特定网页，比如有一些叫做“mashups”的软件，专门整合其他网页的信息。还有种软件通过“APIs”，把其他网站当做其软件基础架构的一部分，或把其他网站当做达成目的的一个特定功能。
+
 Our computers are so small and the Web so great and vast that this last scenario seems like part of an inescapable trend. Why _wouldn't_ you depend on other web sites whenever you could, making their endless information and bountiful abilities a seamless part of yours? And so, I suspect, such uses will become increasingly common until, one day, your computer is as tethered to the Web as you yourself are now.
+
+> 相比功能宏大的网页，我们的电脑显得如此渺小，上述最后例子即是一个不可避免的趋势。当你需要的时候，为什么不利用其他网站呢？为什么不把其他网站上无穷无尽的信息和丰富多样的功能化为己有？正是如此，我猜网页的这些用途会变得十分普遍，直到一天你的电脑已被这些网页紧紧拴住，正如你已经离不开电脑了一样。
 
 It is sometimes suggested that such a future is impossible, that making a Web that other computers could use is the fantasy of some (rather unimaginative, I would think) sci-fi novelist. That it would only happen in a world of lumbering robots and artificial intelligence and machines that follow you around, barking orders while intermittently unsuccessfully attempting to persuade you to purchase a new pair of shoes.
 

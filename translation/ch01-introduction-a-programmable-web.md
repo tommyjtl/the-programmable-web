@@ -12,11 +12,19 @@ Our computers are so small and the Web so great and vast that this last scenario
 
 It is sometimes suggested that such a future is impossible, that making a Web that other computers could use is the fantasy of some (rather unimaginative, I would think) sci-fi novelist. That it would only happen in a world of lumbering robots and artificial intelligence and machines that follow you around, barking orders while intermittently unsuccessfully attempting to persuade you to purchase a new pair of shoes.
 
+> 有时候，人们说这样的未来不可能存在，创造一个让其他计算机自身也可以使用的互联网只是某些（很难想象，我觉得）科幻小说家的幻想罢了。那只会发生在一个未来世界，那个世界充满了笨重的机器人、人工智能设备和各种机械。它们跟随着你、间歇地向你叫喊着，试图说服你购买一双新鞋。
+
 So it is perhaps unsurprising that one of the critics who has expressed something like this view, Cory Doctorow, is in fact a rather imaginative sci-fi novelist (amongst much else). Doctorow's complaint is expressed in his essay "Metacrap: Putting the torch to seven straw-men of the meta-utopia"[^mc].
+
+> 在这些批评者之中，有一位表达了类似的观点，也不足为奇。Cory Doctorow 是一个富有想象力的科幻小说家（相比其他而言）。Doctorow 的批评意见表达在他的文章《元垃圾：把火把放在七个元乌托邦稻草人上》中。
 
 [^mc]: Available online at . It is also reprinted in his book of essays _Content: Selected Essays on Technology, Creativity, Copyright, and the Future of the Future_ (2008, Tachyon Publications) which is likewise available online at .
 
+> [^mc]: 在线浏览地址 。另外这篇文章也被重新出版在了他的文集《内容：关于科技、创意、版权和未来之未来的精选文章》（2008 年，Tachyon 出版）之中，同样可在此处在线阅览 。
+
 Doctorow argues that any system collect accurate "metadata" -- the kind of machine-processable data that will be needed to make this dream of computers-using-the-Web come true -- will run into seven inescapable problems: people lie, people are lazy, people are stupid, people don't know themselves, schemas aren't neutral, metrics influence results, and there's more than one way to describe something. Instead, Doctorow proposes that instead of trying to get people to provide data, we should instead look at the data they produce incidentally while doing other things (like how Google looks at the links people make when they write web pages) and use that instead.
+
+> Doctorow 提出，任何系统，如果试图去收集准确的 “元数据”（一种机器也可以处理的、能让 “计算机使用互联网” 成为现实的数据），将会陷入七个不可避免的问题中：人们提供假数据、人们懒于处理数据、人们提供错误的信息、人们不了解自身、一些数据模式并不中立、衡量事情的方式影响了结果，以及，描述同一个东西存在多种方式。相反，Docorow 建议，与其让人们主动提供数据，不如多多关注人们做其他事情的时候，偶然产生的数据（就像 Google 看待人们编写网页时创造的各种超链接一样），然后用这些数据来替代准确的 “元数据”。
 
 Doctorow is, of course, attacking a strawman. Utopian fantasies of honest, complete, unbiased data about everything are obviously impossible. But who was trying for that anyway? The Web is rarely perfectly honest, complete, and unbiased -- but it's still pretty damn useful. There's no reason making a Web for computers to use can't be the same way.
 

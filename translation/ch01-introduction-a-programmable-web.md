@@ -8,11 +8,11 @@ All fine and good, of course; indeed, nigh indispensable. And yet, it is soberin
 
 And so, it is striking to consider -- almost shocking, in fact -- what the world might be like when our software turns to the Web just as frequently and casually as we do. Today, of course, we can see the faint, future glimmers of such a world. There is software that phones home to find out if there's an update. There is software where part of its content -- the help pages, perhaps, or some kind of catalog -- is streamed over the Web. There is software that sends a copy of all your work to be stored on the Web. There is software specially designed to help you navigate a certain kind of web page. There is software that consists of _nothing but_ a certain kind of web page. There is software -- the so-called "mashups" -- that consists of a web page combining information from two other web pages. And there is software that, using "APIs", treats other web sites as just another part of the software infrastructure, another function it can call to get things done.
 
-> 细想上述改变的确令人吃惊，甚至有些震惊。而当这些软件变得像网页一样频繁且日常，世界将会是什么样子？在今天，这个未来世界就已初现端倪。现在我们能够通过软件拨打电话更进信息，有些软件的帮助页面或目录在网上四处蔓延，有些软件能将你的工作成果拷贝并存储到网页上。也有些软件则为你特别定制，为你找出所需的网页，或者就只包含一些特定网页，比如有一些叫做“mashups”的软件，专门整合其他网页的信息。还有种软件通过“APIs”，把其他网站当做其软件基础架构的一部分，或把其他网站当做达成目的的一个特定功能。
+> 细想上述改变的确令人吃惊，甚至有些震惊。而当这些软件变得像网页一样频繁且日常，世界将会是什么样子？在今天，这个未来世界就已初现端倪。现在我们能够通过一些应用拨打电话更进信息，有些应用的帮助页面或目录在网上四处蔓延，有些则能将你的工作成果拷贝并存储到互联网上。也有些应用为你特别定制，为你找出所需的网页，或者就只包含一些特定网页。有一类应用，即所谓的“内容混搭（mashups)”，其实也就是把不同网页的内容放进一个网页中，使内容图文并茂。还有另一种应用，通过，“应用程序接口(APIs)”, 将其他网站当作一种软件架构中每个组成的小部分，比如当需要用到某个网站的功能时，去找对应的接口请求数据就好了。
 
 Our computers are so small and the Web so great and vast that this last scenario seems like part of an inescapable trend. Why _wouldn't_ you depend on other web sites whenever you could, making their endless information and bountiful abilities a seamless part of yours? And so, I suspect, such uses will become increasingly common until, one day, your computer is as tethered to the Web as you yourself are now.
 
-> 相比功能宏大的网页，我们的电脑显得如此渺小，上述最后例子即是一个不可避免的趋势。当你需要的时候，为什么不利用其他网站呢？为什么不把其他网站上无穷无尽的信息和丰富多样的功能化为己有？正是如此，我猜网页的这些用途会变得十分普遍，直到一天你的电脑已被这些网页紧紧拴住，正如你已经离不开电脑了一样。
+> 相比功能宏大的互联网，我们的电脑显得如此渺小，上述最后例子即是一个不可避免的趋势。当你需要的时候，为什么不利用其他网站呢？为什么不把其他网站上无穷无尽的信息和丰富多样的功能化为己有？正是如此，我猜互联网的这些用途会变得十分普遍，直到一天你的电脑已被互联网紧紧拴住，正如你已经离不开电脑了一样。
 
 It is sometimes suggested that such a future is impossible, that making a Web that other computers could use is the fantasy of some (rather unimaginative, I would think) sci-fi novelist. That it would only happen in a world of lumbering robots and artificial intelligence and machines that follow you around, barking orders while intermittently unsuccessfully attempting to persuade you to purchase a new pair of shoes.
 
@@ -32,9 +32,15 @@ Doctorow argues that any system collect accurate "metadata" -- the kind of machi
 
 Doctorow is, of course, attacking a strawman. Utopian fantasies of honest, complete, unbiased data about everything are obviously impossible. But who was trying for that anyway? The Web is rarely perfectly honest, complete, and unbiased -- but it's still pretty damn useful. There's no reason making a Web for computers to use can't be the same way.
 
+> Doctorow 所攻讦当然是一些假想敌，因为完整可信且足够精确的数据显然只是乌托邦式的幻想。那些努力营造这一幻想的人可能会想，互联网几乎不能完全达到以上要求，但依然已经非常实用，如法炮制一个为计算机定制的网络也足够可行。
+
 I have to say, however, the idea's proponents do not escape culpability for these utopian perceptions. Many of them have gone around talking about the "Semantic Web" in which our computers would finally be capable of "machine understanding". Such a framing (among other factors) has attracted refugees from the struggling world of artificial intelligence, who have taken it as another opportunity to promote their life's work.
 
-Instead of the "let's just build something that works" attitude that made the Web (and the Internet) such a roaring success, they brought the formalizing mindset of mathematicians and the institutional structures of academics and defense contractors. They formed committees to form working groups to write drafts of ontologies that carefully listed (in 100-page Word documents) all possible things in the universe and the various properties they could have, and they spent ours in Talmudic debates over whether a washing machine was a kitchen appliance or a household cleaning device.
+> 然而我必须指出，以上想法的追随者要为这个乌托邦幻想负责。这其中一些人肆意讨论能让计算机最终能够实现“机器理解”的“语义网”。这样的网络架构吸引了很多在人工智能世界里挣扎的难民，这些人把语义网当做推动他们毕生心血的另一途径。
+
+Instead of the "let's just build something that works" attitude that made the Web (and the Internet) such a roaring success, they brought the formalizing mindset of mathematicians and the institutional structures of academics and defense contractors. They formed committees to form working groups to write drafts of ontologies that carefully listed (in 100-page Word documents) all possible things in the universe and the various properties they could have, and they spent hours in Talmudic debates over whether a washing machine was a kitchen appliance or a household cleaning device.
+
+> “构造一些有用的东西”，这一态度曾让互联网获得了巨大成功，而上述这些人并非如此秉持这一观念。他们带给互联网的，是数学家们的固定思维，以及学者和国防承包商那样墨守成规的结构体系。他们为工作小组设立委员会，在长达100页的word文档里详细列举了有关语义本体的所有可能性，以及它们可能拥有的各种性质。（因执着于探究事物的本质），他们花费数小时进行塔木德式辩论，仅仅为了争论洗衣机在本质上到底属于厨房配件，还是清洁设备。
 
 With them has come academic research and government grants and corporate R&D and the whole apparatus of people and institutions that scream "pipedream". And instead of spending time building things, they've convinced people interested in these ideas that the first thing we need to do is write _standards_. (To engineers, this is absurd from the start -- standards are things you write _after_ you've got something working, not before!)
 

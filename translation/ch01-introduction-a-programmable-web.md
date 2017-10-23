@@ -36,7 +36,7 @@ Doctorow is, of course, attacking a strawman. Utopian fantasies of honest, compl
 
 I have to say, however, the idea's proponents do not escape culpability for these utopian perceptions. Many of them have gone around talking about the "Semantic Web" in which our computers would finally be capable of "machine understanding". Such a framing (among other factors) has attracted refugees from the struggling world of artificial intelligence, who have taken it as another opportunity to promote their life's work.
 
-> 然而我必须指出，以上想法的追随者要为这个乌托邦幻想负责。这其中一些人肆意讨论能让计算机最终能够实现“机器理解”的“语义网”。这样的网络架构吸引了很多在人工智能世界里挣扎的难民，这些人把语义网当做推动他们毕生心血的另一途径。
+> 然而我必须指出，以上想法的追随者要为这个乌托邦幻想负责。其中有很多人在肆意讨论能让计算机最终能够实现“机器理解”的“语义网”。这样的网络架构吸引了很多在人工智能世界里挣扎的难民，这些人把语义网当做推动他们毕生心血的另一途径。
 
 Instead of the "let's just build something that works" attitude that made the Web (and the Internet) such a roaring success, they brought the formalizing mindset of mathematicians and the institutional structures of academics and defense contractors. They formed committees to form working groups to write drafts of ontologies that carefully listed (in 100-page Word documents) all possible things in the universe and the various properties they could have, and they spent hours in Talmudic debates over whether a washing machine was a kitchen appliance or a household cleaning device.
 
